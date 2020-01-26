@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VendingMachine/static/css/main.8c5d14d6.chunk.css",
+    "main.js": "/VendingMachine/static/js/main.f6680b67.chunk.js",
+    "main.js.map": "/VendingMachine/static/js/main.f6680b67.chunk.js.map",
+    "runtime-main.js": "/VendingMachine/static/js/runtime-main.b8398b8a.js",
+    "runtime-main.js.map": "/VendingMachine/static/js/runtime-main.b8398b8a.js.map",
+    "static/css/2.67123b20.chunk.css": "/VendingMachine/static/css/2.67123b20.chunk.css",
+    "static/js/2.62efcc84.chunk.js": "/VendingMachine/static/js/2.62efcc84.chunk.js",
+    "static/js/2.62efcc84.chunk.js.map": "/VendingMachine/static/js/2.62efcc84.chunk.js.map",
+    "index.html": "/VendingMachine/index.html",
+    "precache-manifest.31ea8641345ce8106d1f3ce1546dadac.js": "/VendingMachine/precache-manifest.31ea8641345ce8106d1f3ce1546dadac.js",
+    "service-worker.js": "/VendingMachine/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/VendingMachine/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.8c5d14d6.chunk.css.map": "/VendingMachine/static/css/main.8c5d14d6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8398b8a.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.62efcc84.chunk.js",
+    "static/css/main.8c5d14d6.chunk.css",
+    "static/js/main.f6680b67.chunk.js"
+  ]
+}
